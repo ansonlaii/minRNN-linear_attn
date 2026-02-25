@@ -12,5 +12,6 @@ Our experiment is based on the selective copying task where our models (minRNN +
 | minLSTM            | 80 ± 0.5         |
 | minGRU w/ ATN      | 84 ± 0.4         |
 | minLSTM w/ ATN     | 83 ± 0.9         |
+
 **Table 1:** Model Accuracies on Selective Copying Task
 
