@@ -1,4 +1,4 @@
-This is the final project code for the course CS679 (Neural Networks) in University of Waterloo. 
+Final project code for the course CS679 (Neural Networks) at the University of Waterloo.
 
 The project is based on the paper [Were RNNs All We Needed?](https://arxiv.org/pdf/2410.01201). The authors of the paper sought out to show that their minRNN models are more efficient than other state of the art models but still achieve competitive accuracies in basic tasks like selective copying. We followed the suggestion of the paper to reevaluate simpler foundational models in light of more complex architectures. In particular, we added linearized attention instead of the traditional softmax attention to minRNN which allows parallel scan, in effect achieving faster runtimes.
 
